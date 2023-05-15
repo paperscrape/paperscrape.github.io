@@ -1,0 +1,104 @@
+"Study Title","Study Abbreviation","Authors","Published in","Date Published","Number of Randomized Patients","Conclusion","Primary Outcome","Results for the Primary Outcome","Blinding","Comparator","Link to Article"
+"
+              
+                Chlorthalidone vs. Hydrochlorothiazide for Hypertension-Cardiovascular Events.
+              
+            ","Diuretic Comparison Project Writing Group","Ishani, Areef et al.","NEJM","2022/12/14","13,523 patients","There was little difference in the occurrence of major cardiovascular outcome events or non-cancer-related deaths between patients receiving chlorthalidone and those receiving hydrochlorothiazide.","Composite of nonfatal myocardial infarction, stroke, heart failure resulting in hospitalization, urgent coronary revascularization for unstable angina, and non-cancer-related death","Hazard ratio, 1.04; 95% confidence interval, 0.94 to 1.16; P = 0.45","Not stated","Patients receiving hydrochlorothiazide vs. patients receiving chlorthalidone","https://pubmed.ncbi.nlm.nih.gov/36516076/?format=pubmed",
+"
+              
+                Sotorasib in KRAS p.G12C-Mutated Advanced Pancreatic Cancer.
+              
+            ","NA","Strickler, John H et al.","NEJM","2022/12/22","38 patients","Sotorasib showed anticancer activity and had an acceptable safety profile in patients with KRAS p.G12C-mutated advanced pancreatic cancer who had received previous treatment.","Centrally confirmed objective response (defined as a complete or partial response)","8 patients had a centrally confirmed objective response (21%; 95% CI, 10 to 37)","Not stated","None","https://pubmed.ncbi.nlm.nih.gov/36546651/?format=pubmed",
+"
+              
+                Comparison of two chemotherapy regimens in patients with newly diagnosed Ewing sarcoma (EE2012): an open-label, randomised, phase 3 trial.
+              
+            ","NA","Brennan, Bernadette et al.","Lancet","2022/10/29","640 patients","Error","Event-free survival","Event-free survival at 3 years was 61% with group 1 and 67% with group 2 (adjusted hazard ratio [HR] 0*71 [95% credible interval 0*55-0*92 in favour of group 1). The probability that the true HR was less than 1*0 was greater","Open-label","Group 1 (European regimen of vincristine, ifosfamide, doxorubicin, and etoposide induction, and consolidation using vincristine, actinomycin D, with ifosfamide or cyclophosphamide, or busulfan and melphalan) vs Group 2 (US regimen of vincristine, doxorubicin, cyclophosphamide, ifosfamide, and etoposide induction, plus ifosfamide and etoposide, and consolidation using vincristine and cyclophosphamide, or vincristine, actinomycin D, and ifosfamide, with busulfan and melphalan)","https://pubmed.ncbi.nlm.nih.gov/36522207/?format=pubmed",
+"
+              
+                Tumor-Infiltrating Lymphocyte Therapy or Ipilimumab in Advanced Melanoma.
+              
+            ","NA","Rohaan, Maartje W et al.","NEJM","2022/12/08","168 patients","TIL therapy was significantly more effective than ipilimumab in prolonging progression-free survival in patients with advanced melanoma.","Progression-free survival","Median progression-free survival was 7.2 months in the TIL group and 3.1 months in the ipilimumab group (hazard ratio for progression or death, 0.50; 95% CI, 0.35 to 0.72; P<0.001); 49% (95% CI, 38 to 60) and 21% (95% CI, 13 to 32) of the patients, respectively, had an objective response.","Open-label","TILs vs. ipilimumab","https://pubmed.ncbi.nlm.nih.gov/36477031/?format=pubmed",
+"
+              
+                Q-122 as a novel, non-hormonal, oral treatment for vasomotor symptoms in women taking tamoxifen or an aromatase inhibitor after breast cancer: a phase 2, randomised, double-blind, placebo-controlled trial.
+              
+            ","NA","Vrselja, Amanda et al.","Lancet","2022/11/11","131","Q-122 is an effective and well tolerated non-hormonal oral treatment for vasomotor symptoms in women taking oral adjuvant endocrine therapy after breast cancer.","Difference in the mean percentage change from baseline in the Vasomotor Symptom Severity Score of moderate and severe hot flushes and night sweats (msVMS-SS) between Q-122 and placebo after 28 days of treatment","Q-122 -39% [95% CI -46 to -31] vs placebo -26% [-33 to -18]; p=0*018).","Double-blind","Q-122 (n=65) and placebo (n=66)","https://pubmed.ncbi.nlm.nih.gov/36366886/?format=pubmed",
+"
+              
+                Adagrasib with or without Cetuximab in Colorectal Cancer with Mutated KRAS G12C.
+              
+            ","NA","Janne, Pasi A et al.","NEJM","2022/06/03","116 patients","Adagrasib showed clinical efficacy without new safety signals in patients with previously treated KRAS(G12C) -mutated NSCLC.","Objective response","48 (42.9%) had a confirmed objective response. The median duration of response was 8.5 months (95% confidence interval [CI], 6.2 to 13.8).","Blinded independent central review","KRAS(G12C) -mutated non-small-cell lung cancer (NSCLC) patients previously treated with platinum-based chemotherapy and anti-programmed death 1 or programmed death ligand 1 therapy","https://pubmed.ncbi.nlm.nih.gov/35658005/?format=pubmed",
+"
+              
+                Prostate Cancer Screening with PSA and MRI Followed by Targeted Biopsy Only.
+              
+            ","GOTEBORG-2","Hugosson, Jonas et al.","NEJM","2022/12/08","37,887","MRI-directed targeted biopsy for screening and early detection in persons with elevated PSA levels reduced the risk of overdiagnosis by half at the cost of delaying detection of intermediate-risk tumors in a small proportion of patients.","Clinically insignificant prostate cancer, defined as a Gleason score of 3+3","A total of 66 of the 11,986 participants in the experimental group (0.6%) received a diagnosis of clinically insignificant prostate cancer, as compared with 72 of 5994 participants (1.2%) in the reference group, a difference of -0.7 percentage points (95% confidence interval [CI], -1.0 to -0.4; relative risk, 0.46; 95% CI, 0.33 to 0.64; P<0.001).","Not stated","Experimental group and reference group","https://pubmed.ncbi.nlm.nih.gov/36477032/?format=pubmed",
+"
+              
+                Trastuzumab deruxtecan versus trastuzumab emtansine in patients with HER2-positive metastatic breast cancer: updated results from DESTINY-Breast03, a randomised, open-label, phase 3 trial.
+              
+            ","NA","Hurvitz, Sara A et al.","Lancet","2022/12/10","524","Trastuzumab deruxtecan showed a significant improvement in overall survival versus trastuzumab emtansine in patients with HER2-positive metastatic breast cancer, as well as the longest reported median progression-free survival, reaffirming trastuzumab deruxtecan as the standard of care in the second-line setting.","Progression-free survival by blinded independent central review","Median progression-free survival by blinded independent central review was 28*8 months (95% CI 22*4-37*9) with trastuzumab deruxtecan and 6*8 months (5*6-8*2) with trastuzumab emtansine (hazard ratio [HR] 0*33 [95% CI 0*26-0*43]; nominal p<0*0001).","Patients and investigators were not masked to the treatment received.","Trastuzumab deruxtecan vs. Trastuzumab emtansine","https://pubmed.ncbi.nlm.nih.gov/36495879/?format=pubmed",
+"
+              
+                Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death.
+              
+            ","NordICC Study Group","Bretthauer, Michael et al.","NEJM","2022/10/10","84,585","Screening colonoscopy may reduce the risk of colorectal cancer.","Risk of colorectal cancer and related death","Risk of colorectal cancer at 10 years was 0.98% in the invited group and 1.20% in the usual-care group, a risk reduction of 18% (risk ratio, 0.82; 95% confidence interval [CI], 0.70 to 0.93). The risk of death from colorectal cancer was 0.28% in the invited group and 0.31% in the usual-care group (risk ratio, 0.90; 95% CI, 0.64 to 1.16).","Not stated","Invited group and usual-care group","https://pubmed.ncbi.nlm.nih.gov/36214590/?format=pubmed",
+"
+  
+    
+    
+    
+    
+      
+  Q-122 as a novel, non-hormonal, oral treatment for vasomotor symptoms in women taking tamoxifen or an aromatase inhibitor after breast cancer: a phase 2, randomised, double-blind, placebo-controlled trial
+
+
+    
+  
+","NA","Vrselja, Amanda et al.","Lancet","2022/11/11","131","Q-122 is an effective and well tolerated non-hormonal oral treatment for vasomotor symptoms in women taking oral adjuvant endocrine therapy after breast cancer.","Difference in the mean percentage change from baseline in the Vasomotor Symptom Severity Score of moderate and severe hot flushes and night sweats (msVMS-SS) between Q-122 and placebo after 28 days of treatment","Q-122 -39% [95% CI -46 to -31] vs placebo -26% [-33 to -18]; p=0*018).","Double-blind","Q-122 and placebo","https://pubmed.ncbi.nlm.nih.gov/36366886/?format=pubmed",
+"
+              
+                Duration of Device-Based Fever Prevention after Cardiac Arrest.
+              
+            ","NA","Hassager, Christian et al.","NEJM","2022/11/07","789 patients","Active device-based fever prevention for 36 or 72 hours after cardiac arrest did not result in significantly different percentages of patients dying or having severe disability or coma.","Death from any cause or hospital discharge with a Cerebral Performance Category of 3 or 4 within 90 days after randomization","32.3% in the 36-hour group and 33.6% in the 72-hour group (hazard ratio, 0.99; 95% confidence interval, 0.77 to 1.26; P = 0.70)","Not stated","device-based temperature control targeting 36degC for 24 hours followed by targeting of 37degC for either 12 or 48 hours","https://pubmed.ncbi.nlm.nih.gov/36342119/?format=pubmed",
+"
+              
+                Chlorthalidone vs. Hydrochlorothiazide for Hypertension-Cardiovascular Events.
+              
+            ","Diuretic Comparison Project Writing Group","Ishani, Areef et al.","NEJM","2022/12/14","13,523","There was no difference in the occurrence of major cardiovascular outcome events or non-cancer-related deaths between patients who received chlorthalidone and patients who received hydrochlorothiazide.","Composite of nonfatal myocardial infarction, stroke, heart failure resulting in hospitalization, urgent coronary revascularization for unstable angina, and non-cancer-related death","Hazard ratio, 1.04; 95% confidence interval, 0.94 to 1.16; P = 0.45","Not stated","Patients receiving hydrochlorothiazide vs. patients receiving chlorthalidone","https://pubmed.ncbi.nlm.nih.gov/36516076/?format=pubmed",
+"
+              
+                Zanubrutinib or Ibrutinib in Relapsed or Refractory Chronic Lymphocytic Leukemia.
+              
+            ","NA","Hillmen, Peter et al.","Future oncology (London, England)","2020/03/25","535 patients","Patients taking zanubrutinib had a significantly longer progression-free survival than those taking ibrutinib.","Progression-free survival","The median progression-free survival was not reached in the zanubrutinib arm and was 24.9 months in the ibrutinib arm (hazard ratio 0.41; 95% confidence interval 0.29-0.59; P < 0.0001).","Not specified","Zanubrutinib vs. Ibrutinib","https://pubmed.ncbi.nlm.nih.gov/32207333/?format=pubmed",
+"
+              
+                Intravenous ferric derisomaltose in patients with heart failure and iron deficiency in the UK (IRONMAN): an investigator-initiated, prospective, randomised, open-label, blinded-endpoint trial.
+              
+            ","IRONMAN","Kalra, Paul R et al.","Lancet","2022/11/08","1137","Intravenous ferric derisomaltose administration was associated with a lower risk of hospital admissions for heart failure and cardiovascular death in patients with heart failure, reduced left vent","Recurrent hospital admissions for heart failure and cardiovascular death","336 primary endpoints (22.4 per 100 patient-years) occurred in the ferric derisomaltose group and 411 (27.5 per 100 patient-years) occurred in the usual care group (rate ratio [RR] 0.82 [95% CI 0.66 to 1.02]; p=0.070). In the COVID-19 analysis, 210 primary endpoints (22.3 per 100 patient-years) occurred in the ferric derisomaltose group compared with 280 (29.3 per 100 patient-years) in the usual care group (RR 0.76 [95% CI 0.58 to 1.00]; p=0.047).","Open label, with masked adjudication of the outcomes","Intravenous ferric derisomaltose vs. usual care","https://pubmed.ncbi.nlm.nih.gov/36347265/?format=pubmed",
+"
+              
+                Empagliflozin in Patients with Chronic Kidney Disease.
+              
+            ","EMPA-KIDNEY","Herrington, William G et al.","NEJM","2022/11/04","6609 patients","Empagliflozin therapy led to a lower risk of progression of kidney disease or death from cardiovascular causes than placebo in patients with chronic kidney disease who were at risk for disease progression.","Progression of kidney disease or death from cardiovascular causes","13.1% of patients in the empagliflozin group and 16.9% of patients in the placebo group experienced progression of kidney disease or death from cardiovascular causes (hazard ratio, 0.72; 95% confidence interval [CI], 0.64 to 0.82; P<0.001).","Yes","empagliflozin (10 mg once daily) vs. matching placebo","https://pubmed.ncbi.nlm.nih.gov/36331190/?format=pubmed",
+"
+              
+                Progression of Atrial Fibrillation after Cryoablation or Drug Therapy.
+              
+            ","EARLY-AF","Andrade, Jason G et al.","NEJM","2022/11/07","303 patients","Initial treatment of paroxysmal atrial fibrillation with catheter cryoballoon ablation was associated with a lower incidence of persistent atrial fibrillation or recurrent atrial tachyarrhythmia than initial use of antiarrhythmic drugs.","Incidence of persistent atrial fibrillation or recurrent atrial tachyarrhythmia","3 patients (1.9%) in the ablation group had an episode of persistent atrial fibrillation, as compared with 11 patients (7.4%) in the antiarrhythmic drug group (hazard ratio, 0.25; 95% confidence interval [CI], 0.09 to 0.70).","Not specified","Ablation group (154 patients) and antiarrhythmic drug group (149 patients)","https://pubmed.ncbi.nlm.nih.gov/36342178/?format=pubmed",
+"
+              
+                Surgery or Endovascular Therapy for Chronic Limb-Threatening Ischemia.
+              
+            ","BEST-CLI","Farber, Alik et al.","NEJM","2022/11/07","1830","Among patients with CLTI who had an adequate great saphenous vein for surgical revascularization (cohort 1), the incidence of a major adverse limb event or death was significantly lower in the surgical group than in the endovascular group. Among the patients who lacked an adequate saphenous vein conduit (cohort 2), the outcomes in the two groups were similar.","Composite of a major adverse limb event or death from any cause","42.8% in the surgical group and 47.7% in the endovascular group (hazard ratio, 0.79; 95% CI, 0.58 to 1.06; P = 0.12).","Not stated","Surgical vs. Endovascular","https://pubmed.ncbi.nlm.nih.gov/36342173/?format=pubmed",
+"
+              
+                Trial of an Intervention to Improve Acute Heart Failure Outcomes.
+              
+            ","COACH","Lee, Douglas S et al.","NEJM","2022/11/07","5452 patients","Error","Composite of death from any cause or hospitalization for cardiovascular causes within 30 days after presentation and the composite outcome within 20 months","Within 30 days, death from any cause or hospitalization for cardiovascular causes occurred in 301 patients (12.1%) who were enrolled during the intervention phase and in 430 patients (14.5%) who were enrolled during the control phase (adjusted hazard ratio, 0.88; 95% confidence interval [CI], 0.78 to 0.99; P = 0.04). Within 20 months, the cumulative incidence of primary-outcome events was 54.4% (95% CI, 48.6 to 59.9) among patients who were enrolled during the intervention phase and 56.2% (95% CI, 54.2 to 58.1) among patients who were enrolled during the control phase (adjusted hazard ratio, 0.95; 95","Not specified","Control phase (usual care) vs. intervention phase (point-of-care algorithm to stratify patients with acute heart failure according to the risk of death)","https://pubmed.ncbi.nlm.nih.gov/36342109/?format=pubmed",
+"
+              
+                Methylprednisolone for Heart Surgery in Infants - A Randomized, Controlled Trial.
+              
+            ","STRESS","Hill, Kevin D et al.","NEJM","2022/11/07","1263 infants","Prophylactic use of methylprednisolone did not significantly reduce the likelihood of a worse outcome and was associated with postoperative development of hyperglycemia warranting insulin in a higher percentage of infants than placebo.","Ranked composite of death, heart transplantation, or any of 13 major complications","Adjusted odds ratio of 0.86 (95% CI, 0.71 to 1.05; P = 0.14)","Prospective, randomized, placebo-controlled","Methylprednisolone group and placebo group","https://pubmed.ncbi.nlm.nih.gov/36342116/?format=pubmed",
